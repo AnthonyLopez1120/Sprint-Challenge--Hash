@@ -27,7 +27,7 @@ accordingly.
 
 Commit your code regularly and meaningfully. This helps both you (in
 case you ever need to return to old code for any number of reasons and
-your project manager.
+your project manager
 
 ## Description
 
